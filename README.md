@@ -18,6 +18,7 @@ I’m a passionate Android user/developer which always wants to use the latest t
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://github.com/hbjosemaria/hbjosemaria/blob/master/openai-logo.svg" />
 
 <br />
 
