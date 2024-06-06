@@ -2,11 +2,11 @@
 
 **`Android Developer`**
 
-I’m a passionate Android user/developer which always wants to use the latest tech to become an expertise. Adept at creating excellent apps, I'm especialized at Kotlin + Compose + MVVM and I'm always following Clean Architecture guidelines as well as SOLID principles. I love tinkering with all the Android echosystem and its IoT has a special place in my 💜 
+I’m a passionate Android user/developer which always wants to use the latest tech to become an expertise. Adept at creating excellent apps, I'm especialized at Kotlin + Compose + MVVM and I'm always following Clean Architecture guidelines as well as SOLID principles. I love tinkering with all the Android echosystem and IoT and AI are my next goals to reach 🚀
 
 ---
 
-### 🧰 Languages and Tools
+### 💻 Languages and Tools
 
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
